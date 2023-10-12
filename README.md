@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me:</h2>
 
 ###
 
@@ -45,10 +45,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devabdu.devabdu&left_text=Profile Views"  />
 
 ###
 
