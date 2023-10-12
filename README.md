@@ -2,11 +2,15 @@
 
 ###
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">I'm Abdelrahman a recent Computer Science graduate passionate about mobile app development. As a junior Flutter developer, I am excited to create cross-platform mobile applications that are visually appealing and provide a great user experience.</p>
+
+###
+
+<p align="left">📫 How to reach me: abdellrahmanalaa@gmail.com</p>
 
 ###
 
@@ -16,9 +20,6 @@
   </a>
   <a href="https://www.facebook.com/abdelrahman.alaa.944" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-  <a href="abdellrahmanalaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
